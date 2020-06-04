@@ -1,7 +1,6 @@
 # Avaliação 2 - Projeto Anonibus
-AV2 - Anonibus
 
-Projeto criado para avaliação da matéria de Desenvolvimento de Aplicações Distríbuidas e Mobile.
+Projeto criado para avaliação da matéria de Desenvolvimento de Aplicações Distribuídas e Mobile.
 
 Funcionalidades desenvolvidas pelo grupo:
 
@@ -10,6 +9,7 @@ Funcionalidades desenvolvidas pelo grupo:
 
 Tecnologias usadas:
 - React Native
+- Javascript
 - Firebase: 
   - Database
   - Auth
