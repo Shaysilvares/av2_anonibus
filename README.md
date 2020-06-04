@@ -13,7 +13,7 @@ Tecnologias usadas:
 - Firebase: 
   - Database
   - Auth
-  - Store
+  - Storage
   - Functions
 - ImagePicker (Expo)
 - Expo
