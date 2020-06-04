@@ -1,4 +1,4 @@
-# av2_anonibus
+# Avaliação 2 - Projeto Anonibus
 AV2 - Anonibus
 
 Projeto criado para avaliação da matéria de Desenvolvimento de Aplicações Distríbuidas e Mobile.
